@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practicas</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttons">Buttons</string>
+    <string name="title_activity_botones">Botones</string>
+    <string name="title_activity_blank">blank</string>
+</resources>

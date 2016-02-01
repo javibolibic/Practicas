@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prácticas</string>
+    <string name="action_settings">Configuración</string>
+    <string name="buttons">Botones</string>
+    <string name="password">Contraseña</string>
+    <string name="set_password">Introducir contraseña</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
